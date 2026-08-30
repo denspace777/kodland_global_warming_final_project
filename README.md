@@ -1,6 +1,6 @@
 # kodland_global_warming_final_project
 
-![глобальное потепление](https://www.google.com/imgres?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8&imgurl=https%3A%2F%2Fzooblog.ru%2Fwp-content%2Fuploads%2F2021%2F02%2Fizobrazhenie_2021-02-13_210116.png&imgrefurl=https%3A%2F%2Fzooblog.ru%2Finteresnye-fakty-o-globalnom-poteplenii%2F&docid=BNByN4yv0rUp_M&tbnid=piY9Go5pupOuxM&vet=12ahUKEwiplfeOq8iWAxVy3QIHHTbUAB8QnPAOegUI0AIQAA..i&w=950&h=559&hcb=2&itg=1&ved=2ahUKEwiplfeOq8iWAxVy3QIHHTbUAB8QnPAOegUI0AIQAA)
+![глобальное потепление](https://www.google.com/imgres?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8&imgurl=https%3A%2F%2Fnews-img.gismeteo.st%2Fkz%2F2026%2F03%2Fshutterstock_2365686429-640x427-1.jpg&imgrefurl=https%3A%2F%2Fwww.gismeteo.kz%2Fnews%2Fklimat%2Fglobalnoe-poteplenie-oon-fiksiruet-samoe-zharkoe-desyatiletie%2F&docid=Zs69SaBiEy5pyM&tbnid=WqducXEMfEI4mM&vet=12ahUKEwiplfeOq8iWAxVy3QIHHTbUAB8QnPAOegUIjgUQAA..i&w=640&h=427&hcb=2&ved=2ahUKEwiplfeOq8iWAxVy3QIHHTbUAB8QnPAOegUIjgUQAA)
 
 
 ## мои идеи для проекта:
