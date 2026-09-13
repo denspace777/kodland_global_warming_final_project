@@ -16,7 +16,7 @@
 
 
 ## библиотеки:
-> 1. основные: random, pyTelegramBotAPI
+> 1. основные: random, pyTelegramBotAPI, collections
 > 2. могут пригодиться: googletrans==4.0.0-rc1 (переводчик), request
 > 3. скорей не пригодятся: pyttsx3, speech_recognition, sounddevice
 
